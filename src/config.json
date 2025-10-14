@@ -1,7 +1,7 @@
 {
   "id": "68eed45b34caaccbbcf1a96b",
   "logo": "https://i.ibb.co/JWY1fMhn/blob.png",
-  "store_name": "next-commerce",
+  "store_name": "Enargy store",
   "main_color": "#001637ff",
   "phone": "0795323451",
   "repoName": "saber-nc",
@@ -31,5 +31,7 @@
   "facebookPixel": {
     "name": "next-commerce",
     "id": "next-commerce"
-  }
+  },
+  "language": "ar",
+  "EnableBerue": false
 }
