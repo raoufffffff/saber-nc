@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68eed53e232230fdc06c6f1a",
+    "userId": "68eed45b34caaccbbcf1a96b",
+    "name": "Hqbv",
+    "price": 500000,
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/N23gCRh9/blob.png",
+      "https://i.ibb.co/MxgqLdYp/blob.png",
+      "https://i.ibb.co/cXJQx74c/blob.png",
+      "https://i.ibb.co/TMqHYDtG/blob.png"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-14T22:57:02.577Z",
+    "__v": 0
+  }
+]
